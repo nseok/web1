@@ -1,0 +1,94 @@
+.profile {
+    width: 200px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+.tx1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color:violet; 
+    letter-spacing: 1px; 
+    text-align: center;
+}
+
+.tx2{
+    
+    text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box{
+    width: 220px;
+    height: auto;
+    background-color: pink; 
+    padding: 30px;
+    text-align: center;
+    border: 3px solid rgb(221, 163, 248);
+    border-radius: 15px;
+    display: block; margin-left: auto; margin-right: auto;
+    box-shadow: rgb(88, 83, 83) 5px 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 800px;
+    display: float
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background: plum;
+    display: flex;
+}
+
+.left-menu{
+    width: 20%;
+    height: 400px;
+    background: rebeccapurple;
+   
+    display: flex;
+    
+}
+
+.right-menu{
+    width: 80%;
+    height: 400px;
+    background: rgb(221, 163, 248);
+    
+    display: flex;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background: plum;
+    
+
+}
+
+.navbar li{
+    display: inline-block;
+   
+}
+
+.navbar a{
+    font-size: 30px;
+    text-decoration-line: none; color: rgb(75, 57, 57);
+    text-decoration-color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 60px;
+    text-align: center;
+    background: rgb(245, 205, 245);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+href {
+    target="_blank"
+}
+
